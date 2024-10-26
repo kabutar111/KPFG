@@ -1,0 +1,78 @@
+{
+  "id": "097cc244-1a2d-4f93-b2f9-b029188ec4a1",
+  "state": "Nordrhein-Westfalen",
+  "examYear": "2024",
+  "examMonth": "09",
+  "fach": "Chirurgie",
+  "fachgebiet": "Handchirurgie",
+  "thema": "Karpaltunnelsyndrom",
+  "kategorie": "Mündliche Prüfung",
+  "teil1": {
+    "id": "097cc244-1a2d-4f93-b2f9-b029188ec4a0",
+    "inhalt": "Herr Martin Schubert stellte sich in unserer ZNA wegen Schmerzen im Bereich des rechten Handgelenks vor. Kribbeln und Taubheitsgefühl betreffen die drei lateralen Finger. Er gab an, dass er mittlerweile ein Glas Wasser nicht mehr gut halten kann und befürchtet, dass es ihm aus der Hand rutscht. Seit gestern haben die Schmerzen zugenommen, sodass er heute Nacht in seiner Schicht als Busfahrer nicht arbeiten konnte. Er wollte eine Arbeitsunfähigkeitsbescheinigung (AU), da sein Hausarzt am Wochenende nicht verfügbar ist. Auf der Schmerzskala (NRS) gab er die Schmerzen mit 5 an, und er hat bisher keine Medikamente eingenommen.",
+    "schwierigkeit": "mittel",
+    "questions": [
+      {
+        "id": "fed97d1a-4bff-4cb9-ab3a-343deebb0f36",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Was ist die Definition des Karpaltunnelsyndroms?",
+        "answer": "Es handelt sich nicht um eine Erkrankung an sich, sondern um ein Syndrom aufgrund einer Kompression des N. medianus.",
+        "idealAnswer": "Das Karpaltunnelsyndrom ist ein Kompressionssyndrom des N. medianus im Bereich des Handgelenks, verursacht durch eine Einengung im Karpaltunnel.",
+        "tags": ["Karpaltunnelsyndrom", "Definition", "N. medianus"],
+        "schwierigkeit": "leicht"
+      },
+      {
+        "id": "42c60d9f-3912-48e5-851f-5ed23c99afd3",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Welche Risikofaktoren gibt es für das Karpaltunnelsyndrom?",
+        "answer": "Mechanische Belastung (berufsbedingt), Diabetes mellitus, Schwangerschaft, rheumatoide Arthritis, medikamentös bedingt (z.B. durch Fluorchinolone).",
+        "idealAnswer": "Zu den Risikofaktoren gehören: mechanische Belastung (berufsbedingt), Diabetes mellitus, Schwangerschaft, rheumatoide Arthritis, Hypothyreose, Akromegalie, und medikamentöse Ursachen wie Fluorchinolone.",
+        "tags": ["Karpaltunnelsyndrom", "Risikofaktoren", "Berufserkrankung"],
+        "schwierigkeit": "mittel"
+      }
+    ]
+  },
+  "teil2": {
+    "id": "628da8cc-6f23-4038-9bfe-290c577348df",
+    "inhalt": "In diesem Teil wurden die Prognose und Diagnostik des Karpaltunnelsyndroms besprochen, einschließlich der Elektroneurografie und Elektromyografie des M. abductor pollicis brevis. Bildgebung und Laboruntersuchungen wurden ebenfalls diskutiert.",
+    "schwierigkeit": "mittel"
+  },
+  "teil3": {
+    "id": "ca60805b-1744-4d83-aa25-0e23b1a33e39",
+    "inhalt": "In diesem Teil wurden verschiedene medizinische Themen behandelt, darunter Bradykardie, tiefe Venenthrombose und Gastritis.",
+    "schwierigkeit": "schwer",
+    "questions": [
+      {
+        "id": "ad8253aa-6a57-41f2-b675-0d4e5a0ca46f",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Bradykardie",
+        "question": "Welche Formen der Bradykardie kennen Sie?",
+        "answer": "Sinusbradykardie, Sick-Sinus-Syndrom, Bradyarrhythmia absoluta, AV-Block (Grad I, II und III).",
+        "idealAnswer": "Die wichtigsten Formen der Bradykardie sind: Sinusbradykardie, Sick-Sinus-Syndrom, Bradyarrhythmia absoluta, und AV-Blöcke (Grad I, II Typ Mobitz I und II, sowie Grad III).",
+        "tags": ["Bradykardie", "Herzrhythmusstörungen", "AV-Block"],
+        "schwierigkeit": "mittel"
+      },
+      {
+        "id": "9d767da0-771c-43fc-b4bb-826bed52d71c",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Gastroenterologie",
+        "thema": "Gastritis",
+        "question": "Welche Typen der Gastritis gibt es und was ist die häufigste Ursache?",
+        "answer": "Es gibt drei Typen der Gastritis: A, B und C. Typ B ist der häufigste und wird durch eine bakterielle Infektion mit Helicobacter pylori verursacht.",
+        "idealAnswer": "Die Gastritis wird in drei Haupttypen unterteilt: Typ A (autoimmun), Typ B (bakteriell) und Typ C (chemisch-toxisch). Typ B ist der häufigste und wird meist durch eine Helicobacter pylori-Infektion verursacht.",
+        "tags": ["Gastritis", "Helicobacter pylori", "Gastroenterologie"],
+        "schwierigkeit": "mittel"
+      }
+    ]
+  },
+  "kommentar": "Die Prüfung deckte ein breites Spektrum an Themen ab, mit Schwerpunkten in Chirurgie, Innerer Medizin und Pharmakologie. Die Prüfer waren freundlich, stellten aber anspruchsvolle Fragen.",
+  "schlagwoerter": "Karpaltunnelsyndrom, Bradykardie, Gastritis, tiefe Venenthrombose, Colles-Fraktur",
+  "schwierigkeit": "schwer",
+  "pruefungskompetenz": "Fachübergreifende Kenntnisse in Chirurgie, Innerer Medizin und Pharmakologie",
+  "verbundenThemen": "Neurologie, Kardiologie, Gastroenterologie, Orthopädie"
+}

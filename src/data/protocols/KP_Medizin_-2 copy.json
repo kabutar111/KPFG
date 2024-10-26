@@ -1,0 +1,150 @@
+{
+  "id": "12345",
+  "state": "Münster",
+  "examYear": "2024",
+  "examMonth": "September",
+  "fach": "Medizin",
+  "fachgebiet": "Orthopädie und Traumatologie",
+  "thema": "Karpaltunnelsyndrom und Colles-Fraktur",
+  "kategorie": "Mündliche Prüfung",
+  "teil1": {
+    "id": "38a15448-8859-4131-a2dc-f4e6f2fe22cb",
+    "inhalt": "Herr Martin Schubert stellte sich in unserer ZNA wegen Schmerzen im Bereich des rechten Handgelenks vor. Kribbeln und Taubheitsgefühl betreffen die drei lateralen Finger. Der Patient berichtet, dass er ein Glas Wasser nicht mehr gut halten kann. Die Schmerzen haben sich seit gestern verschlimmert und er konnte seine Nachtschicht als Busfahrer nicht absolvieren.",
+    "questions": [
+      {
+        "id": "3468119b-31a9-4367-8236-b99b852d03e8",
+        "fach": "Neurologie",
+        "fachgebiet": "Orthopädie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Welche typischen Symptome zeigen sich beim Karpaltunnelsyndrom?",
+        "answer": "Nächtliche Schmerzen, Kribbeln, Taubheitsgefühl der lateralen drei Finger. Schwäche in der Hand, besonders im Bereich des Daumens.",
+        "tags": "Orthopädie, Neurologie, Karpaltunnelsyndrom, Symptome"
+      },
+      {
+        "id": "3468119b-31a9-4367-8236-b99b852d03e9",
+        "fach": "Neurologie",
+        "fachgebiet": "Orthopädie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Welche Risikofaktoren gibt es für das Karpaltunnelsyndrom?",
+        "answer": "Mechanische Belastung (berufsbedingt), Diabetes mellitus, Schwangerschaft, rheumatoide Arthritis, medikamentös bedingt (z.B. Fluorchinolone).",
+        "tags": "Orthopädie, Neurologie, Risikofaktoren, Karpaltunnelsyndrom"
+      },
+      {
+        "id": "3468119b-31a9-4367-8236-b99b852d03ea",
+        "fach": "Neurologie",
+        "fachgebiet": "Orthopädie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Wie sichern Sie die Diagnose des Karpaltunnelsyndroms?",
+        "answer": "Elektroneurografie zur Messung der Nervenleitungsgeschwindigkeit und Elektromyografie zur Beurteilung der Muskelkraft, insbesondere im M. abductor pollicis brevis.",
+        "tags": "Orthopädie, Neurologie, Diagnostik, Karpaltunnelsyndrom"
+      }
+    ]
+  },
+  "kommentar": "Die Fallbeschreibung umfasst typische Symptome eines Karpaltunnelsyndroms mit funktioneller Einschränkung. Wichtig sind die Differentialdiagnosen und die körperliche Untersuchung.",
+  "teil2": {
+    "id": "99e39384-b9b9-4f22-8fcb-fe0e8d50e0ce",
+    "inhalt": "Im zweiten Teil ging es um die Diagnostik und die Prognose. Hier wurden die Elektroneurografie und Elektromyografie des M. abductor pollicis brevis besprochen, ebenso wie die Bildgebung zur Differenzierung von Frakturen.",
+    "questions": [
+      {
+        "id": "99e39384-b9b9-4f22-8fcb-fe0e8d50e0cf",
+        "fach": "Chirurgie",
+        "fachgebiet": "Diagnostik",
+        "thema": "Frakturdiagnostik",
+        "question": "Welche Bildgebung wird zur Differenzierung von Frakturen verwendet?",
+        "answer": "Röntgenaufnahmen zur Beurteilung der Fraktur, ggf. MRT zur weiteren Abklärung von Weichteilverletzungen.",
+        "tags": "Chirurgie, Diagnostik, Bildgebung, Fraktur"
+      }
+    ]
+  },
+  "teil3": {
+    "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef59574",
+    "inhalt": "Der Prüfer stellte Fragen zur Anatomie des Karpaltunnels, zu den Risikofaktoren und zur Diagnosesicherung. Es wurde über konservative Therapieoptionen und operative Dekompression gesprochen. Zudem gab es Bildmaterial zu einer Colles-Fraktur und deren Behandlung.",
+    "questions": [
+      {
+        "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef59575",
+        "fach": "Chirurgie",
+        "fachgebiet": "Traumatologie",
+        "thema": "Colles-Fraktur",
+        "question": "Wie erfolgt die Behandlung einer Colles-Fraktur?",
+        "answer": "Die Behandlung kann konservativ durch geschlossene Reposition und Gips oder operativ durch Plattenosteosynthese erfolgen. Eine ventrale Plattenfixation wird häufig angewendet.",
+        "tags": "Chirurgie, Fraktur, Orthopädie, Behandlung"
+      },
+      {
+        "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef59576",
+        "fach": "Chirurgie",
+        "fachgebiet": "Traumatologie",
+        "thema": "Colles-Fraktur",
+        "question": "Was ist die häufigste Komplikation einer Colles-Fraktur?",
+        "answer": "Morbus Sudeck (Complex Regional Pain Syndrome, CRPS).",
+        "tags": "Chirurgie, Komplikationen, Fraktur, Orthopädie"
+      },
+      {
+        "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef59577",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Bradykardie",
+        "question": "Welche Symptome manifestieren sich bei Bradykardie?",
+        "answer": "Synkope, Schwindel, Leistungsverminderung aufgrund eines verringerten Herzminutenvolumens.",
+        "tags": "Innere Medizin, Kardiologie, Bradykardie, Symptome"
+      },
+      {
+        "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef59578",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "AV-Block",
+        "question": "Welche Typen des AV-Blocks kennen Sie und wie lauten die Definitionen?",
+        "answer": "AV-Block 1. Grades: Verzögerte Überleitung, AV-Block 2. Grades Typ I: Verlängerung der PQ-Zeit bis zum Ausfall einer Überleitung, AV-Block 2. Grades Typ II: Plötzlicher Ausfall einer Überleitung ohne vorherige PQ-Verlängerung, AV-Block 3. Grades: Vollständiger Ausfall der Überleitung zwischen Vorhof und Ventrikel.",
+        "tags": "Innere Medizin, Kardiologie, AV-Block, Diagnostik"
+      },
+      {
+        "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef59579",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Bradykardie",
+        "question": "Wie therapieren Sie Bradykardie?",
+        "answer": "In der Notaufnahme geben wir Atropin bei symptomatischer Bradykardie. Falls dies nicht ausreicht, kann Adrenalin gegeben werden. Bei fortbestehender Symptomatik ist die Implantation eines Herzschrittmachers indiziert, typischerweise ein DDD-Schrittmacher.",
+        "tags": "Innere Medizin, Kardiologie, Bradykardie, Therapie"
+      },
+      {
+        "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef5957a",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Gastroenterologie",
+        "thema": "Gastritis",
+        "question": "Welche Typen der Gastritis gibt es und was sind deren Ursachen?",
+        "answer": "Es gibt drei Typen der Gastritis: Typ A (Autoimmun), Typ B (bakterielle Infektion durch Helicobacter pylori), und Typ C (chemisch-toxisch, z.B. durch Medikamente).",
+        "tags": "Innere Medizin, Gastroenterologie, Gastritis, Typen"
+      },
+      {
+        "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef5957b",
+        "fach": "Chirurgie",
+        "fachgebiet": "Gastroenterologie",
+        "thema": "Gallenblasenperforation",
+        "question": "Was bedeutet eine Perforation der Gallenblase und wie wird sie therapiert?",
+        "answer": "Eine Perforation der Gallenblase ist ein akutes Abdomen, das notfallmäßig operiert werden muss. Der Patient wird nüchtern gehalten und für eine notfallmäßige Operation vorbereitet.",
+        "tags": "Chirurgie, Gastroenterologie, Gallenblase, Notfallmedizin"
+      },
+      {
+        "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef5957c",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Tiefe Venenthrombose (TVT)",
+        "question": "Wie sichern Sie die Diagnose einer tiefen Venenthrombose (TVT)?",
+        "answer": "Die Diagnose einer TVT wird mittels farbkodierter Duplexsonographie gesichert. Falls dies nicht verfügbar ist, kann die Komprimierbarkeit der Vene mittels Ultraschall überprüft werden.",
+        "tags": "Innere Medizin, Kardiologie, TVT, Diagnostik"
+      },
+      {
+        "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef5957d",
+        "fach": "Pharmakologie",
+        "fachgebiet": "Toxikologie",
+        "thema": "Antidote",
+        "question": "Welche Antidote gibt es für verschiedene Vergiftungen?",
+        "answer": "Für Paracetamol-Überdosierung wird N-Acetylcystein verwendet, für Benzodiazepin-Vergiftung Flumazenil und für Opioid-Überdosierung Naloxon.",
+        "tags": "Pharmakologie, Toxikologie, Antidote, Vergiftungen"
+      }
+    ]
+  },
+  "schlagwoerter": "Karpaltunnelsyndrom, Colles-Fraktur, Neurologie, Chirurgie, Bradykardie, Gastritis, AV-Block, Gallenblase, TVT, Antidote",
+  "schwierigkeit": "Mittel",
+  "pruefungskompetenz": "Praktische Kenntnisse zur Diagnose und Behandlung orthopädischer Erkrankungen, kardiologischer Notfälle und gastroenterologischer Erkrankungen",
+  "verbundenThemen": "Nervenschäden, Frakturbehandlung, Elektrophysiologische Diagnostik, Herzrhythmusstörungen, Gastritis, Notfallmedizin, Toxikologie"
+}

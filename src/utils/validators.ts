@@ -1,9 +1,13 @@
 import { z } from "zod";
 import { Categories } from "../categories";
-import type { FormDataType } from "../App";
+import { FormDataType } from "../App";
 
 // Basic validation schemas
 export const SchwierigkeitSchema = z.enum(["leicht", "mittel", "schwer"]);
+
+// Add type safety for the Categories
+type FachType = keyof typeof Categories.fachgebiete;
+type FachgebietType = keyof typeof Categories.themen;
 
 export const CategoryValidators = {
   validateState: (state: string): boolean => {
@@ -15,13 +19,13 @@ export const CategoryValidators = {
   },
 
   validateFachgebiet: (fach: string, fachgebiet: string): boolean => {
-    if (!Categories.fachgebiete[fach]) return false;
-    return Categories.fachgebiete[fach].includes(fachgebiet);
+    if (!isFach(fach)) return false;
+    return Categories.fachgebiete[fach as FachType].includes(fachgebiet);
   },
 
   validateThema: (fachgebiet: string, thema: string): boolean => {
-    if (!Categories.themen[fachgebiet]) return false;
-    return Categories.themen[fachgebiet].includes(thema);
+    if (!isFachgebiet(fachgebiet)) return false;
+    return Categories.themen[fachgebiet as FachgebietType].includes(thema);
   },
 
   validateKategorie: (kategorie: string): boolean => {
@@ -32,6 +36,15 @@ export const CategoryValidators = {
     return ["leicht", "mittel", "schwer"].includes(schwierigkeit);
   }
 };
+
+// Type guard functions
+function isFach(fach: string): fach is FachType {
+  return fach in Categories.fachgebiete;
+}
+
+function isFachgebiet(fachgebiet: string): fachgebiet is FachgebietType {
+  return fachgebiet in Categories.themen;
+}
 
 // Validation error messages
 export const ValidationMessages = {
@@ -78,7 +91,8 @@ export const validateForm = (formData: FormDataType): { isValid: boolean; errors
   }
 
   // Validate questions in Teil 1 and Teil 3
-  ['teil1', 'teil3'].forEach((teil: 'teil1' | 'teil3') => {
+  const teile = ['teil1', 'teil3'] as const;
+  teile.forEach((teil) => {
     formData[teil].questions.forEach((question, index) => {
       if (!question.question) {
         errors.push(`Frage ${index + 1} in Teil ${teil === 'teil1' ? '1' : '3'}: Fragetext ist erforderlich`);

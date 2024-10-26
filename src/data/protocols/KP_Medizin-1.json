@@ -1,0 +1,625 @@
+{
+  "id": "MU20240920001",
+  "state": "Nordrhein-Westfalen",
+  "examYear": "2024",
+  "examMonth": "09",
+  "fach": "Allgemeinmedizin",
+  "fachgebiet": "Interdisziplinäre Notfallmedizin",
+  "thema": "Handgelenksschmerzen und Kardiologie",
+  "kategorie": "Mündliche Prüfung",
+  "teil1": {
+    "id": "38a15448-8859-4131-a2dc-f4e6f2fe22cb",
+    "inhalt": "Herr Martin Schubert stellte sich in unserer ZNA wegen Schmerzen im Bereich des rechten Handgelenks vor. Kribbeln und Taubheitsgefühl betreffen die drei lateralen Finger. Er gab an, dass er mittlerweile ein Glas Wasser nicht mehr gut halten kann und befürchtet, dass es ihm aus der Hand rutscht. Seit gestern haben die Schmerzen zugenommen, sodass er heute Nacht in seiner Schicht als Busfahrer nicht arbeiten konnte. Er wollte eine Arbeitsunfähigkeitsbescheinigung (AU), da sein Hausarzt am Wochenende nicht verfügbar ist. Auf der Schmerzskala (NRS) gab er die Schmerzen mit 5 an, und er hat bisher keine Medikamente eingenommen.\n\nVorerkrankungen: Z.n. Cholezystektomie, Nephrolithiasis, distale Radiusfraktur rechts, Gastritis vor langer Zeit, die medikamentös behandelt wurde\n\nFamilienanamnese: Mutter mit Diabetes mellitus Typ 2, Vater an Osteomyelitis nach Bypass-OP verstorben, Schwester leidet an einer unbekannten Autoimmunerkrankung\n\nVegetative Anamnese: Schlafstörungen, nimmt Baldrian und Johanniskraut\n\nMedikamente: Abgesehen von pflanzlichen Mitteln keine\n\nSozialanamnese: Busfahrer, verheiratet, gesunder Sohn\n\nGenussmittel: Ex-Raucher, 40 Packungsjahre",
+    "questions": [
+      {
+        "id": "3468119b-31a9-4367-8236-b99b852d03e8",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Definition des Karpaltunnelsyndroms?",
+        "answer": "Es handelt sich nicht um eine Erkrankung an sich, sondern um ein Syndrom aufgrund einer Kompression des N. medianus.",
+        "tags": "Handgelenk, Nervenkompression, N. medianus"
+      },
+      {
+        "id": "4f7a9b23-c8d1-4e56-9f32-1a2b3c4d5e6f",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Anatomie des Karpaltunnels?",
+        "answer": "Retinaculum flexorum und Flexorensehnen wurden erwähnt.",
+        "tags": "Handgelenk, Anatomie, Retinaculum flexorum, Flexorensehnen"
+      },
+      {
+        "id": "7890abcd-ef12-3456-7890-123456789abc",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Risikofaktoren für Karpaltunnelsyndrom?",
+        "answer": "Mechanische Belastung (berufsbedingt), Diabetes mellitus, Schwangerschaft, rheumatoide Arthritis, medikamentös bedingt.",
+        "tags": "Risikofaktoren, Karpaltunnelsyndrom"
+      },
+      {
+        "id": "def01234-5678-9abc-def0-123456789def",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Welches Medikament kann Karpaltunnelsyndrom verursachen?",
+        "answer": "Fluorchinolone.",
+        "tags": "Medikamente, Karpaltunnelsyndrom, Fluorchinolone"
+      },
+      {
+        "id": "1a2b3c4d-5e6f-7890-abcd-ef1234567890",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Wie kommen Sie auf die Diagnose Karpaltunnelsyndrom?",
+        "answer": "Typische Symptome (nächtliche Schmerzen, Hypästhesie), klinische Zeichen (Schwurhand, Phalen-Zeichen, Tinel-Zeichen, Flaschenzeichen).",
+        "tags": "Diagnose, Karpaltunnelsyndrom, Symptome, klinische Zeichen"
+      },
+      {
+        "id": "2b3c4d5e-6f78-90ab-cdef-123456789012",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Wie sichern Sie die Diagnose Karpaltunnelsyndrom?",
+        "answer": "Elektroneurografie zur Messung der Nervenleitungsgeschwindigkeit und Elektromyografie zur Messung der Muskelkraft.",
+        "tags": "Diagnostik, Karpaltunnelsyndrom, Elektroneurografie, Elektromyografie"
+      },
+      {
+        "id": "3c4d5e6f-7890-abcd-ef12-34567890abcd",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Welchen Muskel verwenden Sie bei der Elektromyografie? Wo wird die Elektrode platziert?",
+        "answer": "M. opponens pollicis.",
+        "tags": "Elektromyografie, Karpaltunnelsyndrom, M. opponens pollicis"
+      },
+      {
+        "id": "4d5e6f78-90ab-cdef-1234-567890abcdef",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Was machen Sie jetzt zur Therapie des Karpaltunnelsyndroms?",
+        "answer": "Konservative Therapie mit NSAR oder operative Dekompression des Nerven.",
+        "tags": "Therapie, Karpaltunnelsyndrom, NSAR, operative Dekompression"
+      },
+      {
+        "id": "5e6f7890-abcd-ef12-3456-7890abcdef12",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "NSAR bei einer Geschichte von Gastritis?",
+        "answer": "Es war vor langer Zeit, und wir könnten einen PPI hinzufügen.",
+        "tags": "NSAR, Gastritis, PPI"
+      },
+      {
+        "id": "6f7890ab-cdef-1234-5678-90abcdef1234",
+        "fach": "Chirurgie",
+        "fachgebiet": "Handchirurgie",
+        "thema": "Karpaltunnelsyndrom",
+        "question": "Beschreiben Sie das Bild: Wo ist der Nerv und wo liegt die Dekompressionsstelle?",
+        "answer": "Es war ein Lipom zu sehen.",
+        "tags": "Bildgebung, Karpaltunnelsyndrom, Lipom"
+      },
+      {
+        "id": "7890abcd-ef12-3456-7890-123456789012",
+        "fach": "Chirurgie",
+        "fachgebiet": "Unfallchirurgie",
+        "thema": "Radiusfraktur",
+        "question": "Beschreiben Sie das Röntgenbild des Unterarms mit Fraktur.",
+        "answer": "Frakturlinie, distales Fragment des Radius nach dorsal verschoben, keine Gelenkbeteiligung.",
+        "tags": "Röntgen, Radiusfraktur"
+      },
+      {
+        "id": "90abcdef-1234-5678-90ab-cdef12345678",
+        "fach": "Chirurgie",
+        "fachgebiet": "Unfallchirurgie",
+        "thema": "Radiusfraktur",
+        "question": "Wie heißt diese Fraktur?",
+        "answer": "Colles-Fraktur.",
+        "tags": "Radiusfraktur, Colles-Fraktur"
+      },
+      {
+        "id": "abcdef12-3456-7890-abcd-ef1234567890",
+        "fach": "Chirurgie",
+        "fachgebiet": "Unfallchirurgie",
+        "thema": "Radiusfraktur",
+        "question": "Behandlung der Colles-Fraktur?",
+        "answer": "Platte und Verschraubung mit ventralem Zugang.",
+        "tags": "Therapie, Colles-Fraktur, Osteosynthese"
+      },
+      {
+        "id": "bcdef123-4567-890a-bcde-f1234567890a",
+        "fach": "Chirurgie",
+        "fachgebiet": "Unfallchirurgie",
+        "thema": "Radiusfraktur",
+        "question": "Alternative Behandlung der Colles-Fraktur?",
+        "answer": "Geschlossene Reposition unter kontinuierlichem Zug und K-Drähte.",
+        "tags": "Therapie, Colles-Fraktur, Reposition, K-Drähte"
+      },
+      {
+        "id": "cdef1234-5678-90ab-cdef-123456789012",
+        "fach": "Chirurgie",
+        "fachgebiet": "Unfallchirurgie",
+        "thema": "Radiusfraktur",
+        "question": "Was ist die häufigste Komplikation dieser Fraktur?",
+        "answer": "Morbus Sudeck",
+        "tags": "Komplikation, Radiusfraktur, Morbus Sudeck, CRPS"
+      },
+      {
+        "id": "def12345-6789-0abc-def1-23456789012a",
+        "fach": "Chirurgie",
+        "fachgebiet": "Unfallchirurgie",
+        "thema": "Radiusfraktur",
+        "question": "Was ist die häufigste iatrogene Ursache für CRPS (Sudeck)?",
+        "answer": "Nicht aufgespalteter Gips",
+        "tags": "CRPS, Morbus Sudeck, iatrogene Ursache, Gips"
+      },
+      {
+        "id": "ef123456-7890-abcd-ef12-3456789012ab",
+        "fach": "Chirurgie",
+        "fachgebiet": "Viszeralchirurgie",
+        "thema": "Gallenblase",
+        "question": "Beschreiben Sie das Ultraschallbild von Leber und Gallenblase.",
+        "answer": "Verdickte Wand mit Dreischichtung und einer kleinen Stelle mit Wandkontinuitätsverlust.",
+        "tags": "Ultraschall, Gallenblase, Wandverdickung"
+      },
+      {
+        "id": "f1234567-890a-bcde-f123-456789012abc",
+        "fach": "Chirurgie",
+        "fachgebiet": "Viszeralchirurgie",
+        "thema": "Gallenblase",
+        "question": "Was bedeutet der Befund im Ultraschallbild?",
+        "answer": "Perforierte Gallenblase",
+        "tags": "Diagnose, Gallenblase, Perforation"
+      },
+      {
+        "id": "12345678-90ab-cdef-1234-56789012abcd",
+        "fach": "Chirurgie",
+        "fachgebiet": "Viszeralchirurgie",
+        "thema": "Gallenblase",
+        "question": "Was bedeutet das für Sie, wenn ein Patient mit diesen Symptomen zu Ihnen kommt?",
+        "answer": "Er kommt mit einem akuten Abdomen. Super, nüchtern lassen und notfallmäßig operieren.",
+        "tags": "Akutes Abdomen, Gallenblasenperforation, Notfalloperation"
+      }
+    ]
+  },
+  "kommentar": "Ich konnte alles schreiben, einschließlich der Prognose und der Diagnostik. Hier habe ich die Elektroneurografie und Elektromyografie des M. abductor pollicis brevis erwähnt, und der Chirurg war sehr zufrieden. Natürlich habe ich auch die Bildgebung und das Labor aufgeführt.",
+  "teil2": {
+    "id": "99e39384-b9b9-4f22-8fcb-fe0e8d50e0ce",
+    "inhalt": "Ich konnte alles schreiben, einschließlich der Prognose und der Diagnostik. Hier habe ich die Elektroneurografie und Elektromyografie des M. abductor pollicis brevis erwähnt, und der Chirurg war sehr zufrieden. Natürlich habe ich auch die Bildgebung und das Labor aufgeführt."
+  },
+  "teil3": {
+    "id": "1f6c6d82-a7bd-40ed-af7b-a54f8ef59574",
+    "inhalt": "Der Internist zeigte mir ein EKG mit einem deutlich verlängerten RR-Intervall, woraufhin ich direkt Sinusbradykardie sagte.",
+    "questions": [
+      {
+        "id": "g330c853-6d4b-4a59-9ecb-71142287be1e",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Bradykardie",
+        "question": "Welche anderen Formen von Bradykardie kennen Sie?",
+        "answer": "Sick-Sinus-Syndrom, Bradyarrhythmia absoluta, AV-Block",
+        "tags": "Bradykardie, Arrhythmien"
+      },
+      {
+        "id": "h330c853-6d4b-4a59-9ecb-71142287be1f",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "AV-Block",
+        "question": "Welche Typen von AV-Block kennen Sie, und wie lauten die Definitionen?",
+        "answer": "AV-Block 1. Grades: PQ-Zeit > 200 ms. AV-Block 2. Grades: Typ I (Wenckebach) und Typ II (Mobitz). AV-Block 3. Grades: komplette Dissoziation zwischen Vorhof- und Kammeraktivität.",
+        "tags": "AV-Block, EKG, Herzrhythmusstörungen"
+      },
+      {
+        "id": "i330c853-6d4b-4a59-9ecb-71142287be20",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Bradykardie",
+        "question": "Welche Symptome manifestieren sich bei Bradykardie?",
+        "answer": "Synkope, Schwindel und Leistungsminderung",
+        "tags": "Bradykardie, Symptome"
+      },
+      {
+        "id": "j330c853-6d4b-4a59-9ecb-71142287be21",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Bradykardie",
+        "question": "Was bedeutet Leistungsminderung bei Bradykardie? Und warum ist der Patient müde?",
+        "answer": "Niedrige Herzfrequenz führt zu einem verringerten Herzminutenvolumen, was zu einem geringeren Sauerstoffangebot und damit zu einer Leistungsverminderung führt.",
+        "tags": "Bradykardie, Pathophysiologie, Leistungsminderung"
+      },
+      {
+        "id": "k330c853-6d4b-4a59-9ecb-71142287be22",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Synkope",
+        "question": "Was ist eine Synkope?",
+        "answer": "Eine Synkope ist ein vorübergehender Bewusstseinsverlust aufgrund einer zerebralen Minderperfusion, charakterisiert durch einen plötzlichen Beginn, kurze Dauer und spontane vollständige Erholung.",
+        "tags": "Synkope, Definition"
+      },
+      {
+        "id": "l330c853-6d4b-4a59-9ecb-71142287be23",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Bradykardie",
+        "question": "Wie lange ist die Pause im Langzeit-EKG, bis ein Patient klinisch mit einer Synkope kommt?",
+        "answer": "6 Sekunden sind typisch, aber 4 Sekunden sind schon relevant.",
+        "tags": "Bradykardie, Synkope, Langzeit-EKG"
+      },
+      {
+        "id": "m330c853-6d4b-4a59-9ecb-71142287be24",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Bradykardie",
+        "question": "Wie therapieren Sie Bradykardie?",
+        "answer": "Bei symptomatischer Bradykardie: In der Notaufnahme geben wir Atropin. Ggf. Adrenalin.",
+        "tags": "Bradykardie, Therapie, Atropin, Adrenalin"
+      },
+      {
+        "id": "n330c853-6d4b-4a59-9ecb-71142287be25",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Bradykardie",
+        "question": "Wenn das nicht ausreicht?",
+        "answer": "Dann sollte ein Herzschrittmacher implantiert werden.",
+        "tags": "Bradykardie, Therapie, Herzschrittmacher"
+      },
+      {
+        "id": "o330c853-6d4b-4a59-9ecb-71142287be26",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Herzschrittmacher",
+        "question": "Welchen Typ würden Sie einsetzen?",
+        "answer": "Früher wurden VAT-Schrittmacher eingesetzt, heute sind DDD-Schrittmacher üblich.",
+        "tags": "Herzschrittmacher, DDD"
+      },
+      {
+        "id": "p330c853-6d4b-4a59-9ecb-71142287be27",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Herzschrittmacher",
+        "question": "Was bedeuten die Buchstaben, und warum wird DDD eingesetzt?",
+        "answer": "D: Dual (Vorhof und Kammer), D: Dual (Sensing und Pacing), D: Dual (getriggert und gehemmt). DDD wird eingesetzt, weil er sowohl den Vorhof als auch die Kammer überwacht und stimuliert, was eine physiologischere Herzaktion ermöglicht.",
+        "tags": "Herzschrittmacher, DDD, Funktionsweise"
+      },
+      {
+        "id": "q330c853-6d4b-4a59-9ecb-71142287be28",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Herzschrittmacher",
+        "question": "Wo wird das Aggregat implantiert?",
+        "answer": "Subkutan subklavikulär",
+        "tags": "Herzschrittmacher, Implantation"
+      },
+      {
+        "id": "r330c853-6d4b-4a59-9ecb-71142287be29",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Kardiologie",
+        "thema": "Herzschrittmacher",
+        "question": "Wo liegen die Sonden, und wie gelangen sie zum Herzen?",
+        "answer": "Die Sonden liegen im rechten Vorhof und Ventrikel, und sie gelangen transvenös über die Vena jugularis, Vena subclavia oder Vena cephalica zur Vena cava superior.",
+        "tags": "Herzschrittmacher, Sonden, Implantation"
+      },
+      {
+        "id": "s330c853-6d4b-4a59-9ecb-71142287be30",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Angiologie",
+        "thema": "Tiefe Venenthrombose",
+        "question": "Welcher Score wird verwendet, und nennen Sie die Kriterien für TVT und LAE?",
+        "answer": "Wells-Score für TVT und LAE. Kriterien wurden nicht explizit genannt.",
+        "tags": "TVT, LAE, Wells-Score"
+      },
+      {
+        "id": "t330c853-6d4b-4a59-9ecb-71142287be31",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Angiologie",
+        "thema": "Tiefe Venenthrombose",
+        "question": "Wie behandeln Sie eine tiefe Venenthrombose?",
+        "answer": "Unfraktioniertes Heparin und niedermolekulares Heparin mit Dosierungen.",
+        "tags": "TVT, Therapie, Heparin"
+      },
+      {
+        "id": "u330c853-6d4b-4a59-9ecb-71142287be32",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Angiologie",
+        "thema": "Tiefe Venenthrombose",
+        "question": "Wie sichern Sie die Diagnose bei einer TVT?",
+        "answer": "Mit farbkodierter Duplexsonographie",
+        "tags": "TVT, Diagnostik, Duplexsonographie"
+      },
+      {
+        "id": "v330c853-6d4b-4a59-9ecb-71142287be33",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Angiologie",
+        "thema": "Tiefe Venenthrombose",
+        "question": "Aber das ist nicht immer verfügbar, was würden Sie machen?",
+        "answer": "Normale Sonographie, wir kontrollieren die Komprimierbarkeit der Vene",
+        "tags": "TVT, Diagnostik, Sonographie"
+      },
+      {
+        "id": "w330c853-6d4b-4a59-9ecb-71142287be34",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Angiologie",
+        "thema": "Tiefe Venenthrombose",
+        "question": "Wie verhält sich eine nicht thrombosierte Vene?",
+        "answer": "Sie lässt sich komplett komprimieren",
+        "tags": "TVT, Diagnostik, Sonographie"
+      },
+      {
+        "id": "x330c853-6d4b-4a59-9ecb-71142287be35",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Angiologie",
+        "thema": "Tiefe Venenthrombose",
+        "question": "Alternative für Therapie?",
+        "answer": "DOAK (Direkte orale Antikoagulanzien)",
+        "tags": "TVT, Therapie, DOAK"
+      },
+      {
+        "id": "y330c853-6d4b-4a59-9ecb-71142287be36",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Angiologie",
+        "thema": "Tiefe Venenthrombose",
+        "question": "Wie lange?",
+        "answer": "3--6 Monate",
+        "tags": "TVT, Therapiedauer"
+      },
+      {
+        "id": "z330c853-6d4b-4a59-9ecb-71142287be37",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Angiologie",
+        "thema": "Tiefe Venenthrombose",
+        "question": "Wann behandeln wir länger?",
+        "answer": "Bei thromboembolischen Ereignissen in der Vorgeschichte und bei Thrombophilien",
+        "tags": "TVT, Therapiedauer, Risikofaktoren"
+      },
+      {
+        "id": "aa330c853-6d4b-4a59-9ecb-71142287be38",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Hämatologie",
+        "thema": "Thrombophilie",
+        "question": "Welche Thrombophilien kennen Sie? Nennen Sie die häufigste.",
+        "answer": "Faktor-V-Leiden-Mutation ist die häufigste Thrombophilie",
+        "tags": "Thrombophilie, Faktor-V-Leiden"
+      },
+      {
+        "id": "ab330c853-6d4b-4a59-9ecb-71142287be39",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Angiologie",
+        "thema": "Tiefe Venenthrombose",
+        "question": "Die Dosierung von Eliquis in der akuten Phase?",
+        "answer": "10 mg 1-0-1 für 10 Tage",
+        "tags": "TVT, Therapie, Eliquis, Dosierung"
+      },
+      {
+        "id": "ac330c853-6d4b-4a59-9ecb-71142287be40",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Gastroenterologie",
+        "thema": "Gastritis",
+        "question": "Was wissen Sie über Gastritis?",
+        "answer": "Es wird in drei Typen unterteilt: A, B und C",
+        "tags": "Gastritis, Klassifikation"
+      },
+      {
+        "id": "ad330c853-6d4b-4a59-9ecb-71142287be41",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Gastroenterologie",
+        "thema": "Gastritis",
+        "question": "Welcher Typ der Gastritis ist der häufigste?",
+        "answer": "Typ B ist der häufigste Typ der Gastritis.",
+        "tags": "Gastritis, Epidemiologie"
+      },
+      {
+        "id": "ae330c853-6d4b-4a59-9ecb-71142287be42",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Gastroenterologie",
+        "thema": "Gastritis",
+        "question": "Was ist die Ursache der Typ B Gastritis?",
+        "answer": "Die Ursache der Typ B Gastritis ist eine bakterielle Infektion durch Helicobacter pylori.",
+        "tags": "Gastritis, Ätiologie, Helicobacter pylori"
+      },
+      {
+        "id": "af330c853-6d4b-4a59-9ecb-71142287be43",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Gastroenterologie",
+        "thema": "Gastritis",
+        "question": "Wie wird die Diagnose der Helicobacter pylori-assoziierten Gastritis gesichert?",
+        "answer": "Zur Sicherung der Diagnose müssen immer zwei Kriterien erfüllt sein: 1. Die histologische Nachweisbarkeit der Bakterien und 2. der Urease-Schnelltest.",
+        "tags": "Gastritis, Diagnostik, Helicobacter pylori"
+      },
+      {
+        "id": "ag330c853-6d4b-4a59-9ecb-71142287be44",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Gastroenterologie",
+        "thema": "Gastritis",
+        "question": "Welche weiteren diagnostischen Methoden gibt es für Helicobacter pylori?",
+        "answer": "Zusätzliche diagnostische Methoden umfassen den Nachweis von Antigenen im Stuhl und den C13-Atemtest.",
+        "tags": "Gastritis, Diagnostik, Helicobacter pylori"
+      },
+      {
+        "id": "ah330c853-6d4b-4a59-9ecb-71142287be45",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Gastroenterologie",
+        "thema": "Gastritis",
+        "question": "Wie therapieren Sie eine Helicobacter pylori-assoziierte Gastritis?",
+        "answer": "Aktuell ist die bismuthbasierte Quadrupeltherapie die Therapie erster Wahl. Das Therapieschema kann jedoch je nach Klinikrichtlinien variieren.",
+        "tags": "Gastritis, Therapie, Helicobacter pylori"
+      },
+      {
+        "id": "ai330c853-6d4b-4a59-9ecb-71142287be46",
+        "fach": "Innere Medizin",
+        "fachgebiet": "Gastroenterologie",
+        "thema": "Gastritis",
+        "question": "Was ist das Prinzip der Therapie bei Helicobacter pylori-assoziierter Gastritis?",
+        "answer": "Das Prinzip der Therapie basiert auf der Kombination von Protonenpumpenhemmern (PPI) und Antibiotika.",
+        "tags": "Gastritis, Therapie, Helicobacter pylori"
+      },
+      {
+        "id": "aj330c853-6d4b-4a59-9ecb-71142287be47",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Bildgebende Diagnostik",
+        "thema": "Radiologie",
+        "question": "Was sehen Sie auf dem CT-Abdomen?",
+        "answer": "Das CT-Abdomen zeigt eine ausgeprägte Darmerweiterung, was auf einen Ileus hindeutet.",
+        "tags": "CT, Abdomen, Ileus"
+      },
+      {
+        "id": "ak330c853-6d4b-4a59-9ecb-71142287be48",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Bildgebende Diagnostik",
+        "thema": "Radiologie",
+        "question": "Was sehen Sie auf dem Röntgen-Thorax?",
+        "answer": "Das Röntgenbild des Thorax zeigt ein deutliches pneumonisches Infiltrat im rechten Unterlappen.",
+        "tags": "Röntgen, Thorax, Pneumonie"
+      },
+      {
+        "id": "al330c853-6d4b-4a59-9ecb-71142287be49",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Gesundheitssystem",
+        "thema": "Verordnungen",
+        "question": "Was versteht man unter einem Heilmittel?",
+        "answer": "Heilmittel sind vom Arzt verschriebene Behandlungen wie Physio-, Sprach-, Ergo-, podologische und Ernährungstherapie.",
+        "tags": "Heilmittel, Verordnung"
+      },
+      {
+        "id": "am330c853-6d4b-4a59-9ecb-71142287be50",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Gesundheitssystem",
+        "thema": "Verordnungen",
+        "question": "Was ist ein Hilfsmittel?",
+        "answer": "Hilfsmittel sind Gegenstände, die helfen, eine Krankheit besser zu behandeln, eine Behinderung zu verhindern oder eine bestehende Behinderung auszugleichen. Dazu gehören zum Beispiel Brillen oder Hörgeräte.",
+        "tags": "Hilfsmittel, Verordnung"
+      },
+      {
+        "id": "an330c853-6d4b-4a59-9ecb-71142287be51",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Gesundheitssystem",
+        "thema": "Medizinprodukte",
+        "question": "Was sind medizinische Produkte?",
+        "answer": "Medizinische Produkte sind Geräte, Instrumente oder Materialien, die zur Diagnose, Vorbeugung oder Behandlung von Krankheiten verwendet werden, z.B. Herzschrittmacher, Verbandsmaterial.",
+        "tags": "Medizinprodukte"
+      },
+      {
+        "id": "ao330c853-6d4b-4a59-9ecb-71142287be52",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Pharmakologie",
+        "thema": "Toxikologie",
+        "question": "Was ist ein Antidot?",
+        "answer": "Ein Antidot ist ein Gegenmittel, das giftige Wirkungen von Giften oder Medikamentenüberdosierungen aufhebt.",
+        "tags": "Antidot, Toxikologie"
+      },
+      {
+        "id": "ap330c853-6d4b-4a59-9ecb-71142287be53",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Pharmakologie",
+        "thema": "Toxikologie",
+        "question": "Nennen Sie Beispiele für Antidote bei spezifischen Vergiftungen.",
+        "answer": "1. Paracetamol-Überdosierung: N-Acetylcystein\n2. Benzodiazepin-Vergiftung: Flumazenil\n3. Opioid-Überdosierung: Naloxon",
+        "tags": "Antidot, Toxikologie, Paracetamol, Benzodiazepine, Opioide"
+      },
+      {
+        "id": "aq330c853-6d4b-4a59-9ecb-71142287be54",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Notfallmedizin",
+        "thema": "Patientenversorgung",
+        "question": "Welche Sättigung wird bei einem kritischen Patienten, der nach cABCDE Schema evaluiert wurde, angestrebt?",
+        "answer": "Bei einem kritischen Patienten, der nach dem cABCDE Schema evaluiert wurde, wird eine Sauerstoffsättigung von 94% - 98% angestrebt.",
+        "tags": "Notfallmedizin, Sauerstoffsättigung, cABCDE"
+      },
+      {
+        "id": "ar330c853-6d4b-4a59-9ecb-71142287be55",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Pharmakologie",
+        "thema": "Psychopharmaka",
+        "question": "Der Patient nimmt Citalopram ein, was sagt Ihnen das?",
+        "answer": "Citalopram ist ein Antidepressivum aus der Gruppe der SSRIs (Selektive Serotonin-Wiederaufnahmehemmer). Es erhöht den Serotoninspiegel im synaptischen Bereich.",
+        "tags": "Psychopharmaka, SSRI, Citalopram"
+      },
+      {
+        "id": "as330c853-6d4b-4a59-9ecb-71142287be56",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Neuroanatomie",
+        "thema": "Synapsen",
+        "question": "Was bedeutet 'synaptischer Bereich'? Wie nennt man diesen Bereich genau?",
+        "answer": "Der synaptische Bereich bezieht sich auf den Raum zwischen zwei Neuronen, wo die Signalübertragung stattfindet. Der genaue Begriff dafür ist 'synaptischer Spalt'.",
+        "tags": "Neuroanatomie, Synapse, synaptischer Spalt"
+      },
+      {
+        "id": "at330c853-6d4b-4a59-9ecb-71142287be57",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Pharmakologie",
+        "thema": "Arzneimittelinteraktionen",
+        "question": "Dieser Patient nimmt Johanniskraut ein. Würden Sie ihm gleichzeitig ein SSRI verabreichen? Was bewirkt Johanniskraut?",
+        "answer": "Nein, die gleichzeitige Gabe von SSRI und Johanniskraut wird nicht empfohlen. Johanniskraut wirkt als Enzyminduktor in der Leber, speziell auf das Cytochrom P450 System. Dies kann zu Wechselwirkungen mit vielen Medikamenten, einschließlich SSRIs, führen und deren Wirksamkeit beeinträchtigen.",
+        "tags": "Arzneimittelinteraktion, SSRI, Johanniskraut, Cytochrom P450"
+      },
+      {
+        "id": "au330c853-6d4b-4a59-9ecb-71142287be58",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Pharmakologie",
+        "thema": "Teratogenität",
+        "question": "Was bedeutet Teratogen?",
+        "answer": "Ein Teratogen ist eine Substanz, die während der Schwangerschaft Malformationen beim Embryo oder Fötus verursachen kann.",
+        "tags": "Teratogen, Schwangerschaft, Embryologie"
+      },
+      {
+        "id": "av330c853-6d4b-4a59-9ecb-71142287be59",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Embryologie",
+        "thema": "Schwangerschaft",
+        "question": "Wann sprechen wir von einem Embryo und wann von einem Fötus?",
+        "answer": "Von einem Embryo spricht man in den ersten 8 Wochen nach der Befruchtung. Ab der 9. Woche bis zur Geburt spricht man dann von einem Fötus.",
+        "tags": "Embryologie, Schwangerschaft, Embryo, Fötus"
+      },
+      {
+        "id": "aw330c853-6d4b-4a59-9ecb-71142287be60",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Embryologie",
+        "thema": "Schwangerschaft",
+        "question": "Wenn eine Frau in der 8. Schwangerschaftswoche ist, wie alt ist der Embryo oder Fötus tatsächlich?",
+        "answer": "In der 8. Schwangerschaftswoche ist der Embryo tatsächlich etwa 6 Wochen alt. Dies liegt daran, dass die Berechnung der Schwangerschaft ab dem ersten Tag der letzten Menstruation beginnt, aber die Befruchtung erst etwa zwei Wochen später erfolgt.",
+        "tags": "Embryologie, Schwangerschaft, Gestationsalter"
+      },
+      {
+        "id": "ax330c853-6d4b-4a59-9ecb-71142287be61",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Gesundheitssystem",
+        "thema": "Verordnungen",
+        "question": "Da Sie auf der Geriatrie arbeiten, was bedeutet Heilmittel?",
+        "answer": "Heilmittel sind ärztlich verordnete Therapiemaßnahmen, die von entsprechend qualifizierten Therapeuten durchgeführt werden. In der Geriatrie sind häufige Heilmittel beispielsweise Physiotherapie, Ergotherapie oder Logopädie.",
+        "tags": "Geriatrie, Heilmittel, Verordnung"
+      },
+      {
+        "id": "ay330c853-6d4b-4a59-9ecb-71142287be62",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Orthopädie",
+        "thema": "Rehabilitation",
+        "question": "Wenn ein Patient eine TEP bekommen hat, wo schicken Sie ihn hin?",
+        "answer": "Nach einer Totalendoprothese (TEP) wird der Patient zur Physiotherapie überwiesen. Dies ist wichtig für die postoperative Rehabilitation und die Wiederherstellung der Mobilität.",
+        "tags": "TEP, Physiotherapie, Rehabilitation"
+      },
+      {
+        "id": "az330c853-6d4b-4a59-9ecb-71142287be63",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Diabetologie",
+        "thema": "Fußpflege",
+        "question": "Und wenn der Patient einen diabetischen Fuß hat?",
+        "answer": "Bei einem Patienten mit diabetischem Fuß erfolgt eine Überweisung zum Podologen. Podologische Behandlung ist ein wichtiger Bestandteil der Prävention und Behandlung von Fußkomplikationen bei Diabetes.",
+        "tags": "Diabetischer Fuß, Podologie"
+      },
+      {
+        "id": "ba330c853-6d4b-4a59-9ecb-71142287be64",
+        "fach": "Allgemeinmedizin",
+        "fachgebiet": "Gesundheitssystem",
+        "thema": "Verordnungen",
+        "question": "Ist das geregelt oder verschreiben Sie das für alle Patienten?",
+        "answer": "Heilmittel werden nicht für alle Patienten verschrieben, sondern nur wenn es medizinisch notwendig ist. Die Verordnung erfolgt nach spezifischen Richtlinien und basiert auf der individuellen medizinischen Indikation des Patienten.",
+        "tags": "Heilmittel, Verordnung, Indikation"
+      }
+    ]
+  },
+  "schlagwoerter": "Gastritis, Helicobacter pylori, Heilmittel, Hilfsmittel, Teratogen, Embryologie, Pharmakologie",
+  "schwierigkeit": "mittel bis schwer",
+  "pruefungskompetenz": "Fachübergreifendes Wissen, klinische Anwendung, Gesundheitssystemkenntnisse",
+  "verbundenThemen": "Innere Medizin, Chirurgie, Pharmakologie, Embryologie, Gesundheitssystem"
+}
